@@ -30,3 +30,7 @@ DESCRIPTION:
  The resulting Excel file includes columns:- Date
 - Post Idea- Caption- Hashtags- Image Idea
  This can be customized based on the brand (e.g., food, fashion, tech) by modifying the placeholder text.
+
+output:
+
+[social_media_calendar.xlsx](https://github.com/user-attachments/files/21125820/social_media_calendar.xlsx)
